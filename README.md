@@ -9,3 +9,4 @@ An interactive, browser-based 3D solar system simulation built with HTML, CSS, a
 > 🔗 [View Live Demo](https://avinashukla960.github.io/Solar-System-Interactive-Simulation/) 
 
 ---
+```
